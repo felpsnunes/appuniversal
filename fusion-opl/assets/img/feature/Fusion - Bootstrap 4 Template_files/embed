@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style type="text/css">
+      html, body, #mapDiv {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="mapDiv"></div>
+      
+    <script nonce="RvABKpD0xDEd7CRobJ55ug">
+      function onEmbedLoad() {
+        initEmbed([null,null,null,null,null,[[[2,"spotlight",null,null,null,null,null,[[null,null,null,null,null,null,null,null,null,null,null,[null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,2]],["0x86e75d90e99d597b:0x6cd3eb9a9fcd23f1","Courtyard by Marriott Ciudad Juarez",null,[null,null,31.6829101,-106.4045673],0],null,null,null,null,null,null,null,null,11,null,[null,"a",null,null,null,null,null,null,null,null,null,null,null,1,null,null,null,[null,null,null,null,null,0,null,null,0,null,null,null,null,null,null,null,null,null,null,1,1,1],null,null,null,[null,null,null,null,null,2,3,2]],null,null,null,null,null,[12,14,29,37,30,61,70,87]]]]],null,["pt_BR"],[null,null,null,"/maps/api/js/ApplicationService.GetEntityDetails","/maps/embed/upgrade204",null,"/maps/embed/record204"],null,null,null,null,null,null,null,null,"pC08ZMrCArDI1sQPt5-W4AE",null,null,null,[[[34015.94359457683,-106.4045673,31.6829101],[0,0,0],null,13.10000038146973],null,0,[["0x86e75d90e99d597b:0x6cd3eb9a9fcd23f1","Courtyard by Marriott Ciudad Juarez, Mision De Los Lagos 9020 Colonia, Partido Iglesias, 32688 Cd Juárez, Chih., México",[31.6829101,-106.4045673],"7841870425520677873"],"Courtyard by Marriott Ciudad Juarez",["Mision De Los Lagos 9020 Colonia","Partido Iglesias","32688 Cd Juárez, Chih., México"],4.599999904632568,"807 comentários","https://search.google.com/local/reviews?placeid=ChIJe1md6ZBd54YR8SPNn5rr02w\u0026q=Courtyard+by+Marriott+Ciudad+Juarez\u0026hl=pt\u0026gl=BR",null,"+52 656 257 6300",null,null,null,["https://www.marriott.com/en-us/hotels/cjscy-courtyard-ciudad-juarez/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0","marriott.com",null,null,",AOvVaw3N0ALn1VTLfl832nbgX2kh,,0ahUKEwjKpLH7867-AhUwpJUCHbePBRwQ61gIFSgQ,"],"Hotel","Mision De Los Lagos 9020 Colonia, Partido Iglesias, 32688 Cd Juárez, Chih., México",null,null,null,null,null,["https://search.google.com/local/reviews?placeid=ChIJe1md6ZBd54YR8SPNn5rr02w\u0026q=Courtyard+by+Marriott+Ciudad+Juarez\u0026hl=pt\u0026gl=BR","807 comentários",null,null,1,null,null,1],null,null,null,1,null,null,null,"ChIJe1md6ZBd54YR8SPNn5rr02w",null,null,"0ahUKEwjKpLH7867-AhUwpJUCHbePBRwQ8BcIAygB","Courtyard By Marriot Juárez",null,["tel:+526562576300"],null,null,null,1,["0ahUKEwjKpLH7867-AhUwpJUCHbePBRwQqtMBCA4oCg",["853MMHMW+55"],["MHMW+55 Ciudad Juarez, Chihuahua, México"],2]]],null,null,null,0,null,null,null,null,null,null,[1]]);
+      }
+      function onApiLoad() {
+        var embed = document.createElement('script');
+        embed.src = "https://maps.gstatic.com/maps-api-v3/embed/js/52/9/intl/pt_br/init_embed.js";
+        document.body.appendChild(embed);
+      }
+    </script>
+    <script src="https://maps.googleapis.com/maps/api/js?client=google-maps-embed&amp;paint_origin=&amp;libraries=geometry,search&amp;v=3.exp&amp;language=pt_BR&amp;callback=onApiLoad" nonce="RvABKpD0xDEd7CRobJ55ug" async defer></script>
+  </body>
+</html>
